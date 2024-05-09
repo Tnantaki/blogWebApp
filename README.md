@@ -20,7 +20,7 @@
 
 ## 📝 Usage
 ### 1. Requirement
-Follow this link to install `Node.js` and `NPM`.
+Follow this link to install `Node.js` and `NPM`.<br>
 https://nodejs.org/en/download/package-manager
 
 ### 2. Running Server
