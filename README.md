@@ -19,6 +19,22 @@
 </p>
 
 ## 📝 Usage
+### 1. Requirement
+Follow this link to install `Node.js` and `NPM`.
+https://nodejs.org/en/download/package-manager
+
+### 2. Running Server
+Access to `blogWebApp` directory.
+
+Install dependency modules.
+```bash
+$ npm i
+```
+
+Running server.
+```bash
+$ node index.js
+```
 
 ## 📆 Time Line
 ### Hour 0: Planning 
