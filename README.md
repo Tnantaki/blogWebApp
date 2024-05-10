@@ -38,11 +38,11 @@ $ node index.js
 
 ## 📆 Time Line
 ### Hour 0: Planning 
-- [ ] Gather content and design ideas, create wireframes and mockups. Plan out how the application will work, which routes might be necessary and which pages need to be made.
+- [x] Gather content and design ideas, create wireframes and mockups. Plan out how the application will work, which routes might be necessary and which pages need to be made.
 
 ### Hour 1: Setup
-- [ ] Set up the project repository, initialize the Node.js application, and install necessary dependencies (Express.js, EJS).
-- [ ] Create the application structure, including routes, views, and static files.
+- [x] Set up the project repository, initialize the Node.js application, and install necessary dependencies (Express.js, EJS).
+- [x] Create the application structure, including routes, views, and static files.
 - [ ] Set up the Express.js server and define the necessary routes.
 
 ### Hour 2-3: Implementing Features
