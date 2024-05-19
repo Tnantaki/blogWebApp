@@ -2,11 +2,17 @@
 <body>
 	<h1>Write your own post</h1>
 	<form action="/submit" method="post">
-		<label for="header">Header: </label><br>
-		<input type="text" id="header" name="header"><br>
-		<label for="content">Content: </label><br>
-		<input type="text" id="Content" name="content"><br>
+		<label for="name" class="form-label">Name: </label>
+		<input type="text" class="form-control" id="name" placeholder="Anonymous" name="name">
+
+		<label for="header" class="form-label">Header: </label>
+		<input type="text" class="form-control" id="header" name="header">
+
+		<label for="content" class="form-label">Content: </label>
+		<textarea name="content" id="content"	class="form-control" style="height: 140px;"></textarea>
+
 		<input type="submit" value="Post">
+
 	</form>
 </body>
 </html>
